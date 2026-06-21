@@ -1,2 +1,7 @@
 .env
 /vendor/
+uploads/
+test_output.txt
+*.log
+.DS_Store
+node_modules/
